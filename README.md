@@ -7,8 +7,12 @@ Step3. execute on target with powershell.exe -EncodedCommand $encodedcommand<br/
 Step4. Start Python server and handler<br/>
 Step5. Have fun<br/>
 
+For bashbunny
+Step1. change IP to your hostname on batgen.ps1 and run batgen.ps1
+Step2. Start control server
+Step3. Insert USB into your unlocked computer you wish to control
 
-
+(you may have to change the drive letters for this work correctly)
 
 example
 
