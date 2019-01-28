@@ -1,13 +1,9 @@
 # psninja
 Minimalist script<br/>
 
-Step1. Edit IP and port on PS file<br/>
-Step2. Base64 encoded with [Convert]::ToBase64String([System.Text.Encoding]::Unicode.GetBytes($string))<br/>
-Step3. execute on target with powershell.exe -EncodedCommand $encodedcommand<br/>
-Step4. Start Python server and handler<br/>
-Step5. Have fun<br/>
+The client loops get requests to the command server, which controls the client through the invoke-expression command
 
-For bashbunny
+For bashbunny <br/>
 Step1. change IP to your hostname on batgen.ps1 and run batgen.ps1 <br/>
 Step2. Start control server <br/>
 Step3. Insert USB into your unlocked computer you wish to control <br/>
