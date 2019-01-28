@@ -8,10 +8,10 @@ Step4. Start Python server and handler<br/>
 Step5. Have fun<br/>
 
 For bashbunny
-Step1. change IP to your hostname on batgen.ps1 and run batgen.ps1
-Step2. Start control server
-Step3. Insert USB into your unlocked computer you wish to control
-
+Step1. change IP to your hostname on batgen.ps1 and run batgen.ps1 <br/>
+Step2. Start control server <br/>
+Step3. Insert USB into your unlocked computer you wish to control <br/>
+ 
 (you may have to change the drive letters for this work correctly)
 
 example
